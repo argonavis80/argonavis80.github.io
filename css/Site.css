@@ -6,7 +6,6 @@ body {
     width: 800px;
 }
 
-/* Set padding to keep content from hitting the edges */
 #bodyContent {
     padding-left: 15px;
     padding-right: 15px;
@@ -19,7 +18,6 @@ body {
     margin: 0 auto -300px;
 }
 
-/* Set the fixed height of the footer here */
 #push {
     height: 300px;
 }
@@ -78,7 +76,6 @@ body {
     color: #2099D1;
 }
 
-/* Lastly, apply responsive CSS fixes as necessary */
 @media (max-width: 767px) {
     #footer {
         margin-left: -20px;
