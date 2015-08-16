@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+    <div id="wrap">
+        <div class="navbar navbar-inverse" style="border: 0">    
+            <div class="container">
+                <div class="navbar-header">            
+                    <a class="navbar-brand" href="/">VESHUB Documentation</a>
+                </div>        
+            </div>
+        </div>
+
+        <div id="bodyContent" class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    {% include navlist.html %}
+                </div>   
+                <div class="col-sm-9"> 
+                    {{ content }}
+                </div>   
+            </div>
+        </div>
+
+        <div id="push"></div>
+    </div>
+
+    <div id="footer" class="container-fluid footer">
+        {% include footer.html %}
+    </div>
+</body>
+</html>

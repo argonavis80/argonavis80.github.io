@@ -1,14 +1,12 @@
 ---
 layout: page
-title: "Welcome to VESHUB Docs"
+title: "Getting Started"
 ---
 
-**Please use the navigation on the left to find the topic you are interested in.**
 
-If you have any recommendations for improving these documentation pages, please drop us a quick email at <support@veshub.com>.
-	
-<h2 id="intro">
-	Introduction
+
+<h2 id="registration">
+	Registration and Login
 </h2>
 <p>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
@@ -27,4 +25,3 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
 	<li>Another item</li>
 	<li>Yet another item</li>
 </ul>
-	

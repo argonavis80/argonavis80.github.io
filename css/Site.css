@@ -1,0 +1,146 @@
+﻿html,
+body {
+    height: 100%;
+    min-width: 800px;
+    width: auto !important;
+    width: 800px;
+}
+
+/* Set padding to keep content from hitting the edges */
+#bodyContent {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -300px;
+}
+
+/* Set the fixed height of the footer here */
+#push {
+    height: 300px;
+}
+
+#footer {
+    height: 260px;
+}
+
+.footer {
+    color: white;
+    background: #20222D;
+    padding-top: 40px;
+    margin-top: 40px;
+}
+
+.footer h4 {
+    color: #2099D1;
+}
+
+.footer a {
+    color: white;
+}
+
+.document h2 {
+    color: #2099D1;
+    margin-top: 30px;
+}
+
+.document h3 {
+    color: #2099D1;
+    margin-top: 30px;
+}
+
+.document h4 {
+    color: #2099D1;
+    margin-top: 30px;
+}
+
+.document img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.document li {
+    margin-top: 10px;
+}
+
+.document ul {
+    list-style-type: none;
+}
+
+.document ul li:before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin: 0 6px 0 -15px;
+    color: #2099D1;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+    #footer {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.sheer {
+    color: #bbbbbb;
+}
+
+.h-center {
+    display: table !important;
+    margin: 0 auto;
+    text-align: center;
+    float: none;
+}
+
+.v-center {
+    display: table !important;
+    vertical-align: middle;
+    float: none;
+}
+
+.table-no-top-border tr:first-child th,
+.table-no-top-border tr:first-child td {
+    border-top: none
+}
+
+.borderless tbody tr td, .borderless thead tr th, .borderless tbody tr th {
+    border: none;
+}
+
+.hoverDiv {
+    background: #fff;
+}
+
+.hoverDiv:hover {
+    background: #f5f5f5;
+}
+
+.label {
+    font-weight: normal !important;
+}
+
+.nav-list label{
+    margin-left: 5px;
+}
+
+.nav-list ul {
+    margin-left: 15px;
+}
+
+.nav-list > li > a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.nav-list > li > label {
+    padding-top: 10px
+}
