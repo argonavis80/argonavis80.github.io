@@ -14,7 +14,7 @@ Please navigate to the [getting started](/getting-started/){: .alert-link} secti
 
 VESHUB is a **colaboration platform** to publish and share **schedules of seagoing vessels** between ship owners, charterers, agents, service partners and all other parties involed in ship schedules. Its main purpose is to overcome organizational boundaries regarding the sharing of schedule related information, shorten the time to publish such information and reducing the workload to keep everybody informed. 
 
-The platform is organized similar to a **social network**. Every perticipant has its own personal user account and can create own company representations or become a member of existing ones. Vessels are linked to one or more shipping companies indicating an owner or charterer relationship. Agencies are special company types which can be nominated as the permement agency representation in a port or can be assigned to be the nominated agency for a dedicated port call. 
+The platform is organized similar to a **social network**. Every perticipant has its own personal user account and can create own company representations or become a member of existing ones. Vessels are linked to one or more shipping companies indicating an owner or charterer relationship. Agencies are special company types which can be nominated as the permament agency representation in a port or can be assigned to be the nominated agency for a dedicated port call. 
 
 ### Example
 To understand the scope of VESHUB we prepared an example of how to use the platform and how different parties are involved.
@@ -53,8 +53,17 @@ Also *Charlie* signed up at VESHUB and created a **company representation** for 
 
 Since the charterer *Future Line* is actually creating the schedules for all operated vessels, *Charlie* started an internal IT project to publish the schedule information from their internal schedule manageing system to VESHUB via the **REST API (Application Programming Interface)**. Using this technology the schedule data will be published automtically without human interaction.
 
-
+Now everybody signed up for a ship or port call (owner or charterer employee, agent, service partners, technician, visitors are able to receive schedule updates via a single platform.
 
 #### The Service Technician
+*Theo* is a service technician working for a global maritime communication provider and services radio equipment on seagoing vessels. On his next assignment he has to board the *Next Voyager* in Hamburg to carry out a service.
 
-### Terminology
+He is already registered at VESHUB but does not belong to any company. However he can search for vessels and their schedules. After he found the port call of the ship in Hamburg, he **signed up for a vessel visit** directly on the platform. Since *Anton* the agent is linked with the call, VESHUB will drop a notification immediatelly to him, informing about a new visit signup request. Anton can easily **confirm or deny the request**, which in turn will inform *Theo* right away.
+
+All visitors which signed up for a visit this way will be **shown as visitors for the port call**. Members of the owner or charterer company as well as members of the agency of the call have a complete overview about the visitors (actually linked with the respective user accounts), the visit reasons, signup details etc.
+
+Shortly before the vessel is scheduled for berthing in Hamburg, it is delayed due to be berth congestion. *Anton* can easily update the arrival time on the platform. VESHUB will inform all registered person about the schedule change immediatelly.
+
+### Further Reading
+- If your are interested in a quick start, you should continue reading the [getting started](/getting-started/) section.
+- For more detailed information about terminology and concepts you should continue with the [basics](/basics/) section.
