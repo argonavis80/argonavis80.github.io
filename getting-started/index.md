@@ -95,3 +95,38 @@ Navigate to your dashboard using the <span class="glyphicon glyphicon-th-large">
 
 **Info:** When you add a ship to your favorite list, you will receive messages whenever something is happening with it (e.g. call has changed). You can change the notification and alert behavior in your [notification settings](/account/notification-settings.html){: .alert-link}.
 {: .alert .alert-info}
+
+## Remember a Port Call {#remember-a-port-call}
+
+Adding ships to your favorite list is usefull if you need quick access to a fixed number of ships or if you wish to receive notifications whenever the schedule, agent or company assignment, details etc. of these ship change.
+
+If you only wish to follow specific port calls, you can mark these calls as your favorites. Port call favorites will show up on the left side of your dashboard. As with ship favorites you will receive notifications if a call is changed, cancelled or deleted.
+
+To mark a call as your favorite, you have to navigate to the details page of the call first:
+
+1. Navigate to the ship details page of the ship the call belongs to.
+1. Locate the call of interest in the schedule list.
+1. Press the **Details** button.
+
+Similar to the ships details page it depends on the policy settings of the managing company, your company membership and role assignment which information the call page provides to you and which actions you are allowed to do. These can be:
+
+- Edit port call details like (ETA/ETD).
+- Nominate agents or change agent details.
+- View visitors and visitor requests.
+- Accept or deny visitor requests.
+- Accept or cancel your own agent nomination.
+- Manage your own visitor requests.
+
+As with the ship favorites above we assume for this tutorial, that the user does not have any special relation to the assigned companies of the ship. Hence the user will only see the details the managing company allows public users to see. In the default settings these are schedules and agent details.
+
+![Call details](images/callDetails.png)
+ 
+Similar to the full schedule view, you can switch between the time zones for ETA and ETD. Some additional call details (voyage number, port operations, terminal, berth and remarks) are displayed in the bottom left corner. In the bottom right corner you can find the agent details if available. In this example only the owner agent is nominated and linked to the respective company. The green label *active* indicates that the agency accepted the nomination.
+ 
+The star button on top of the page will flag the call as your favorite. The star turns orange if a call is an active favorite. Pressing the button again will remove the favorite again (similar to ship favorites).
+ 
+![Toggle call fav](images/callAddFav.png)
+
+If you go back to your dashboard, you will find the flagged call in your port call list sorted by ETA.
+
+![Dashboard with call favorite](images/dashboardWithCallFav.png)
