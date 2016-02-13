@@ -13,7 +13,7 @@ To use VESHUB you have to create you personal user account first.
 1. Enter a **password** and re-type it below for confirmation.
 1. Confirm your input by pressing the button **Sign Up**. By doing this you will also confirm the *terms of service*.
 
-	![Register](/getting-started/images/register.png)
+![Register](images/register.png)
 
 To validate your email address we will send a confirmation email to the address you have specified. To finally activate your account you have to follow the confirmation link in this email.
 
@@ -32,7 +32,7 @@ All of the below steps are optional. However if you want to create your own comp
 2. Fill out the fields in **Contact** section and press the **Update Profile** button.
 3. Fill out the fields in **Details** section as well and press the **Update Details** button.
 
-	![Register](images/edit-profile.png)
+![Register](images/edit-profile.png)
 
 4. Press the button **Ok, whats next?** on top of the page. This button is only available the first time you visit the profile page. If the button is not visible navigate to your dashboard use the **dashboard button** <span class="glyphicon glyphicon-th-large"></span> in the navigation bar instead.
 
@@ -52,7 +52,7 @@ On the left side of the dashboard you will see your favorite (flagged) port call
 
 Adding a ship can be done right away within the dasboard by clicking the **Add** button. But for this tutorial we will search a vessel first.
 
-![Dashboard](images/dashboard.png)
+	![Dashboard](images/dashboard.png)
 
 ## Find a Ship {#find-ship}
 
