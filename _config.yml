@@ -4,6 +4,7 @@ email: support@veshub.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.veshub.com" # the base hostname & protocol for your site
 twitter_username: veshub
+exclude: [bower_components, node_modules]
 
 # Build settings
 markdown: kramdown
